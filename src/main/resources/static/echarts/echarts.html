@@ -14,7 +14,7 @@
         var myChart = echarts.init(document.getElementById('main'));
 
         // 异步加载数据
-        $.get('/view/eCharts/data').done(function (data) {
+        $.get('/eCharts/data').done(function (data) {
             // 填入数据
             myChart.setOption({
                 title: {
