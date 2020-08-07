@@ -8,6 +8,9 @@ class ViewApplicationTests {
 
     @Test
     void contextLoads() {
+//        String s = "/a/{name}/{id}";
+        String s = "/a/b/c";
+        System.out.println(s.replaceAll("\\{[^}]*\\}","*"));
     }
 
 }

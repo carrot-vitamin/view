@@ -1,7 +1,7 @@
-server:
+#server:
 #  servlet:
 #    context-path: /view
-  port: 8081
+#  port: 8081
 
 spring:
   freemarker:

@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>ECharts</title>
-    <script src="../jquery.min.js"></script>
+    <script src="/jquery.min.js"></script>
     <!-- 引入 echarts.js -->
     <script src="/echarts/dist/echarts.min.js"></script>
 </head>
