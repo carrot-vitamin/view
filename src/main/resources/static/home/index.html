@@ -17,12 +17,20 @@
         .carousel-control {
             width: 65%;
         }
+
+        .footer {
+            position: fixed;
+            bottom: 0;
+            text-align: center;
+            width: 100%;
+            color: white;
+        }
     </style>
 
 </head>
 <body>
 
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="margin-top: 10px">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
         <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -61,8 +69,18 @@
         <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
     </a>
+
+
 </div>
 
+<div class="row" style="margin-top: 0.2%">
+    <div class="col-md-4"></div>
+    <div class="col-md-2" style="text-align: center"><a href="#" style="color: #00ff04">Android</a></div>
+    <div class="col-md-2" style="text-align: center"><a href="#" style="color: #00ff04">IOS</a></div>
+    <div class="col-md-4"></div>
+</div>
+
+<div class="footer">Copyright © 2019 Apple Inc. All rights reserved.</div>
 
 <script src="../jquery.min.js"></script>
 <script src="/bootstrap/js/bootstrap.min.js"></script>
