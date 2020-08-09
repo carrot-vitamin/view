@@ -1,6 +1,6 @@
-#server:
-#  servlet:
-#    context-path: /view
+server:
+  servlet:
+    context-path: /view
 #  port: 8081
 
 spring:
