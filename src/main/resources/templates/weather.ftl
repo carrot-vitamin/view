@@ -55,7 +55,7 @@
 						</p>
 						<div class="forecast">
 							<div class="clearFix">
-								<img src="/weather/00.svg" alt="">
+<#--								<img src="/weather/00.svg" alt="">-->
 								<span>
 									晴
 								</span>
