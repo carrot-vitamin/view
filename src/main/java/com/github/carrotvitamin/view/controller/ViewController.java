@@ -1,6 +1,7 @@
 package com.github.carrotvitamin.view.controller;
 
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
 /**
@@ -15,7 +16,8 @@ public class ViewController {
     }
 
     @GetMapping("/weather")
-    public String weather() {
+    public String weather(Model model) {
+//        model.addAttribute("user", new User("张三啊"));
         return "weather";
     }
 }

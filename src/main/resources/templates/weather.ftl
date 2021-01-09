@@ -26,7 +26,7 @@
 				<div class="current-detail">
 					<div class="date">
 						<section class="location-con">
-							<a href="https://m.weathercn.com/current-weather.do?partner=1000001071_hfaw&amp;language=zh-cn&amp;id=60782&amp;p_source=&amp;p_type=jump#"
+							<a href="#"
 							class="location-city js-location-city">
 								<strong>
 									黄浦区
@@ -36,7 +36,7 @@
 							</a>
 							<section class="location-form js-location-form">
 								<input type="text" placeholder="请输入要查询的城市">
-								<a class="location-form-btn" href="https://m.weathercn.com/search-locations.do?partner=1000001071_hfaw&amp;id=60782&amp;p_source=&amp;p_type=jump">
+								<a class="location-form-btn" href="#">
 								</a>
 								<div class="location-form-list js-location-form-list">
 								</div>
@@ -69,7 +69,7 @@
 						</div>
 					</section>
 					<section class="aqi-warning">
-						<a href="https://m.weathercn.com/air-quality.do?partner=1000001071_hfaw&amp;language=components&amp;id=60782&amp;p_source=&amp;p_type=jump">
+						<a href="#">
 							空气质量：51&nbsp;良&nbsp;
 							<span style="background-color:rgb(255,208,0)">
 							</span>
