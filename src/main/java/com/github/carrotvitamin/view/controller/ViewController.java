@@ -13,4 +13,9 @@ public class ViewController {
     public String view() {
         return "index";
     }
+
+    @GetMapping("/weather")
+    public String weather() {
+        return "weather";
+    }
 }

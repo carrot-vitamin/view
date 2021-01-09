@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ic_weather_sunny</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="56.0529849%" y1="0%" x2="56.0529849%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFE466" offset="0%"></stop>
+            <stop stop-color="#FFC322" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="96.0384828%" id="linearGradient-2">
+            <stop stop-color="#FFDF5C" offset="0%"></stop>
+            <stop stop-color="#FFC323" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="weather-icon" transform="translate(-68.000000, -98.000000)">
+            <g id="ic_weather_sunny" transform="translate(68.000000, 98.000000)">
+                <g id="分组" transform="translate(7.000000, 7.000000)">
+                    <path d="M18,41 C18,53.7025492 28.2974508,64 41,64 C53.7025492,64 64,53.7025492 64,41 C64,28.2974508 53.7025492,18 41,18 C28.2974508,18 18,28.2974508 18,41 L18,41 Z" id="Path-Copy" fill="url(#linearGradient-1)"></path>
+                    <path d="M41,0 L41,9 L41,0 Z M69.991378,12.008622 L63.627417,18.372583 L69.991378,12.008622 Z M82,41 L73,41 L82,41 Z M69.991378,69.991378 L63.627417,63.627417 L69.991378,69.991378 Z M41,82 L41,73 L41,82 Z M12.008622,69.991378 L18.372583,63.627417 L12.008622,69.991378 Z M-9.11684532e-13,41 L9,41 L-9.11684532e-13,41 Z M12.008622,12.008622 L18.372583,18.372583 L12.008622,12.008622 Z" id="Combined-Shape" stroke="url(#linearGradient-2)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+                </g>
+            </g>
+            <g id="编组-2" transform="translate(68.000000, 98.000000)"></g>
+        </g>
+    </g>
+</svg>
