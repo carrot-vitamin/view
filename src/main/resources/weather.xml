@@ -1,0 +1,172 @@
+<resp>
+    <city>上海</city>
+    <updatetime>20:46</updatetime>
+    <wendu>5</wendu>
+    <fengli>
+        <![CDATA[ 1级 ]]>
+    </fengli>
+    <shidu>64%</shidu>
+    <fengxiang>西北风</fengxiang>
+    <sunrise_1>06:54</sunrise_1>
+    <sunset_1>17:06</sunset_1>
+    <sunrise_2/>
+    <sunset_2/>
+    <yesterday>
+        <date_1>4日星期一</date_1>
+        <high_1>高温 13℃</high_1>
+        <low_1>低温 7℃</low_1>
+        <day_1>
+            <type_1>阴</type_1>
+            <fx_1>东风</fx_1>
+            <fl_1>
+                <![CDATA[ 2级 ]]>
+            </fl_1>
+        </day_1>
+        <night_1>
+            <type_1>阴</type_1>
+            <fx_1>东风</fx_1>
+            <fl_1>
+                <![CDATA[ 2级 ]]>
+            </fl_1>
+        </night_1>
+    </yesterday>
+    <forecast>
+        <weather>
+            <date>5日星期二</date>
+            <high>高温 8℃</high>
+            <low>低温 2℃</low>
+            <day>
+                <type>阴</type>
+                <fengxiang>北风</fengxiang>
+                <fengli>
+                    <![CDATA[ 3级 ]]>
+                </fengli>
+            </day>
+            <night>
+                <type>阴</type>
+                <fengxiang>北风</fengxiang>
+                <fengli>
+                    <![CDATA[ 3级 ]]>
+                </fengli>
+            </night>
+        </weather>
+        <weather>
+            <date>6日星期三</date>
+            <high>高温 6℃</high>
+            <low>低温 -4℃</low>
+            <day>
+                <type>阴</type>
+                <fengxiang>北风</fengxiang>
+                <fengli>
+                    <![CDATA[ 3级 ]]>
+                </fengli>
+            </day>
+            <night>
+                <type>阴</type>
+                <fengxiang>北风</fengxiang>
+                <fengli>
+                    <![CDATA[ 3级 ]]>
+                </fengli>
+            </night>
+        </weather>
+        <weather>
+            <date>7日星期四</date>
+            <high>高温 -2℃</high>
+            <low>低温 -6℃</low>
+            <day>
+                <type>阴</type>
+                <fengxiang>西北风</fengxiang>
+                <fengli>
+                    <![CDATA[ 4级 ]]>
+                </fengli>
+            </day>
+            <night>
+                <type>多云</type>
+                <fengxiang>西北风</fengxiang>
+                <fengli>
+                    <![CDATA[ 4级 ]]>
+                </fengli>
+            </night>
+        </weather>
+        <weather>
+            <date>8日星期五</date>
+            <high>高温 0℃</high>
+            <low>低温 -5℃</low>
+            <day>
+                <type>晴</type>
+                <fengxiang>西北风</fengxiang>
+                <fengli>
+                    <![CDATA[ 3级 ]]>
+                </fengli>
+            </day>
+            <night>
+                <type>多云</type>
+                <fengxiang>西北风</fengxiang>
+                <fengli>
+                    <![CDATA[ 3级 ]]>
+                </fengli>
+            </night>
+        </weather>
+        <weather>
+            <date>9日星期六</date>
+            <high>高温 4℃</high>
+            <low>低温 -1℃</low>
+            <day>
+                <type>多云</type>
+                <fengxiang>西北风</fengxiang>
+                <fengli>
+                    <![CDATA[ 2级 ]]>
+                </fengli>
+            </day>
+            <night>
+                <type>阴</type>
+                <fengxiang>西北风</fengxiang>
+                <fengli>
+                    <![CDATA[ 2级 ]]>
+                </fengli>
+            </night>
+        </weather>
+    </forecast>
+    <zhishus>
+        <zhishu>
+            <name>穿衣指数</name>
+            <value>保暖冬装</value>
+            <detail>天气寒冷，出门穿冬装喔。棉服，大衣等，内搭毛衣，既保暖，又时尚。</detail>
+        </zhishu>
+        <zhishu>
+            <name>感冒指数</name>
+            <value>多发感冒</value>
+            <detail>感冒多发期，适当减少外出频率，适量补充水分，适当增减衣物。</detail>
+        </zhishu>
+        <zhishu>
+            <name>紫外线强度</name>
+            <value>紫外线最弱</value>
+            <detail>紫外线较弱，对人体无太大影响，放心出门哦。</detail>
+        </zhishu>
+        <zhishu>
+            <name>晾晒指数</name>
+            <value>不适宜晾晒</value>
+            <detail>阳光不充足，不适宜晾晒。</detail>
+        </zhishu>
+        <zhishu>
+            <name>护肤指数</name>
+            <value>清洁护肤</value>
+            <detail>空气湿润度高，可以根据皮肤类型选择相应清爽型扶肤品。</detail>
+        </zhishu>
+        <zhishu>
+            <name>户外指数</name>
+            <value>较适宜外出</value>
+            <detail>天气还可以，预计白天没有降水，适合参加户外活动，适当锻炼身体。</detail>
+        </zhishu>
+        <zhishu>
+            <name>洗车指数</name>
+            <value>较适宜洗车</value>
+            <detail>今明两日天气较好，可以放心洗车。</detail>
+        </zhishu>
+        <zhishu>
+            <name>污染指数</name>
+            <value>无污染</value>
+            <detail>空气很好，污染物浓度低，可在户外正常活动，对健康人群无明显影响。</detail>
+        </zhishu>
+    </zhishus>
+</resp>

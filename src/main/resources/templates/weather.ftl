@@ -29,7 +29,7 @@
 							<a href="#"
 							class="location-city js-location-city">
 								<strong>
-									黄浦区
+									${res.city}
 								</strong>
 								<i class="HWOther other-dingwei">
 								</i>
@@ -43,12 +43,12 @@
 							</section>
 						</section>
 						<p>
-							01月09日 星期六
+							${res.forecast[0].date}
 						</p>
 					</div>
 					<section class="weather clearFix">
 						<p class="temperature">
-							3
+							${res.wendu}
 							<span>
 								℃
 							</span>
@@ -57,13 +57,13 @@
 							<div class="clearFix">
 <#--								<img src="/weather/00.svg" alt="">-->
 								<span>
-									晴
+									${res.forecast[0].day.type}
 								</span>
 							</div>
 							<p>
-								-3℃
+								${res.forecast[0].low}
 								<span>
-									/ 3℃
+									/ ${res.forecast[0].high}
 								</span>
 							</p>
 						</div>
@@ -84,7 +84,7 @@
 					<p>
 						<i class="HWOther other-wendu">
 						</i>
-						3℃
+						${res.wendu}℃
 					</p>
 					<span>
 						温度
@@ -94,7 +94,7 @@
 					<p>
 						<i class="HWOther other-tigan">
 						</i>
-						-1℃
+						2℃
 					</p>
 					<span>
 						体感温度
@@ -127,7 +127,7 @@
 						18%
 					</p>
 					<span>
-						湿度
+						${res.shidu}
 					</span>
 				</li>
 				<li>
@@ -176,14 +176,14 @@
 						<span>
 							风
 						</span>
-						西北&nbsp;1级
+						${res.fengxiang}&nbsp;${res.fengli}
 					</p>
-					<p>
-						<span>
-							阵风
-						</span>
-						西北&nbsp;5级
-					</p>
+<#--					<p>-->
+<#--						<span>-->
+<#--							阵风-->
+<#--						</span>-->
+<#--						西北&nbsp;5级-->
+<#--					</p>-->
 				</div>
 			</div>
 			<section class="current-sunrise">
@@ -195,12 +195,12 @@
 					</i>
 					日出
 					<span>
-						清晨06:54
+						${res.sunrise1}
 					</span>
 					<br>
 					日落
 					<span>
-						傍晚17:08
+						${res.sunset1}
 					</span>
 				</p>
 				<p class="clearFix">
@@ -208,12 +208,12 @@
 					</i>
 					月出
 					<span>
-						凌晨02:31
+						02:31
 					</span>
 					<br>
 					月落
 					<span class="js-moonset">
-						中午13:33
+						13:33
 					</span>
 				</p>
 			</section>
